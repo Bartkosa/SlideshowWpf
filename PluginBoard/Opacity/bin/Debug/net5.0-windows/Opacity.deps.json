@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Opacity/1.0.0": {
+        "dependencies": {
+          "SlideshowEffect": "1.0.0"
+        },
+        "runtime": {
+          "Opacity.dll": {}
+        }
+      },
+      "SlideshowEffect/1.0.0": {
+        "runtime": {
+          "SlideshowEffect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opacity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SlideshowEffect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

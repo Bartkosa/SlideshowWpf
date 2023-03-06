@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\bin\Debug\net5.0-windows\SlideshowEffect.deps.json
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\bin\Debug\net5.0-windows\SlideshowEffect.dll
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\bin\Debug\net5.0-windows\ref\SlideshowEffect.dll
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\bin\Debug\net5.0-windows\SlideshowEffect.pdb
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.AssemblyInfo.cs
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.dll
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\ref\SlideshowEffect.dll
+C:\Users\User\source\repos\WPFhomework\WPFhomework\SlideshowEffect\obj\Debug\net5.0-windows\SlideshowEffect.pdb
